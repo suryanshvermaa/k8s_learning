@@ -1,6 +1,7 @@
 # K8s installation
 ![k8s_architecture](./images/Screenshot%202024-10-27%20102351.png)
 
+### docker installation
 you should have docker allready installed. if not then installed through commands
 
 ```
